@@ -47,11 +47,11 @@
 
 - [x] repeat
 - [x] fr
-- [] minmax
-- [] auto-fit
-- [] auto-fill
-- [] min-content
-- [] max-content
+- [x] minmax
+- [x] auto-fit
+- [x] auto-fill
+- [x] min-content
+- [x] max-content
 
 ## SCSS:
 
